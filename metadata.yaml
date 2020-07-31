@@ -1,0 +1,27 @@
+_repo: Three-Little-Lines-Silverton-Railroad-Silverton-Gladstone-and-Northerly-Silverton-Northern_62664
+_version: 0.0.1
+alternative_title: "3 Little Lines\r\nSilverton Railroad; Silverton, Gladstone and\
+  \ Northerly; Silverton Northern"
+creator:
+  author:
+    agent_name: Crum, Josie Moore
+    alias: Crum, Josie Mary Moore
+    gutenberg_agent_id: '52064'
+    url: http://www.gutenberg.org/2009/agents/52064
+description: ''
+gutenberg_issued: '2020-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62664'
+  lccn: '60030933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Colorado -- San Juan County'
+- !lcc 'HE'
+- GITenberg
+title: "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly;\
+  \ Silverton Northern"
+url: http://www.gutenberg.org/ebooks/62664
